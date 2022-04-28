@@ -1,0 +1,19 @@
+{
+  "baseScheme": "HDFC",
+  "baseGroupId": "HDFC",
+  "baseArtifactId": "HDFC-Fundstansfer",
+  "baseVersion": "2.25.4",
+  "name": "HDFC",
+  "scheme": "HDFC",
+  "javaType": "HDFC.HDFCComponent",
+  "groupId": "HDFC",
+  "artifactId": "HDFC-Fundstransfer",
+  "version": "1.0-SNAPSHOT",
+  "description": "HDFC",
+  "labels" : [ "foo", "bar" ],
+  "pattern": "From",
+  "endpointOptions" : [ "foo", "bar" ],
+  "endpointValues" : {
+    "foo" : "2"
+  }
+}
